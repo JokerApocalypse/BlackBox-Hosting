@@ -1,6 +1,6 @@
-# Back Box Hosting (BBH-V1)
+# Host TalkDrove (HTD-V1)
 
-Back Box Hosting is a Node.js application that provides a complete web interface for hosting and managing WhatsApp bots.
+Host TalkDrove is a Node.js application that provides a complete web interface for hosting and managing WhatsApp bots.
 It offers authentication, dashboard views, admin and moderator tools, deployment helpers and wallet
 features. The project uses **Express** for the HTTP server, **EJS** for templating and **MySQL** for persistence.
 
